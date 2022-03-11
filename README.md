@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarijlou
-- 👀 I’m interested in ...
+- 👀 I’m interested in GO
 - 🌱 I’m currently learning GO
 
 <!---
